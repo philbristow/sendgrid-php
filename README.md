@@ -1,4 +1,4 @@
-This has been forked as a record for <a href="https://betasix.co.uk">Beta Six</a> and is not the origninal, please visit <a href="https://github.com/sendgrid/sendgrid-php">the sendgrid branch</a> for the original version.
+This has been forked as a record for <a href="https://betasix.co.uk">Beta Six</a> and is not the original, please visit <a href="https://github.com/sendgrid/sendgrid-php">the sendgrid branch</a> for the original version.
 <br>
 
 [![BuildStatus](https://travis-ci.org/sendgrid/sendgrid-php.svg?branch=master)](https://travis-ci.org/sendgrid/sendgrid-php)
